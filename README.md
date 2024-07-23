@@ -1,1 +1,3 @@
-# Mindbox-Pyspark-test
+#
+!!!Во вложении два файла с одинаковым кодом, с разрешением .py
+и .ipynb для jupyter notebook!!!
